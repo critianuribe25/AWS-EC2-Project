@@ -1,0 +1,5 @@
+ssh -i key.pem ec2-user@<PUBLIC-IP>
+uname -a
+ls -al
+curl google.com
+exit
