@@ -42,3 +42,19 @@ The goal is to launch a secure instance, connect to it, and prepare it for basic
 - How EC2 fits into AWS compute services  
 - The importance of security groups and restricted access  
 - How to connect to and manage a cloud server  
+
+---
+
+## 🛠 Skills Demonstrated
+- AWS EC2
+- Virtual servers (Linux/Ubuntu)
+- Security Groups (firewall rules)
+- SSH connectivity
+- Basic Linux commands
+- Cloud resource provisioning
+- Cloud infrastructure basics
+
+---
+
+**Status:** In Progress  
+**Expected Completion:** December 23, 2025
