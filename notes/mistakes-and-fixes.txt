@@ -1,6 +1,0 @@
-Error: SSH "Permission denied (publickey)"
-Fix: Changed key file permissions using:
-chmod 400 key.pem
-
-Error: Timeout when connecting
-Fix: Updated security group to allow SSH from my current IP.
