@@ -1,3 +1,0 @@
-- EC2 instances require a key pair to connect securely.
-- Security groups function like cloud firewalls.
-- Linux verification commands help confirm instance health.
